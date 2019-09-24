@@ -20,5 +20,6 @@ for i in range(m):
         output.append('OK')
     else:
         output.append('Access denied')
+
 for s in output:
     print(s)

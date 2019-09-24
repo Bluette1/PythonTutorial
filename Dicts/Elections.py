@@ -11,3 +11,5 @@ for s in range(n):
 
 for candidate in dict:
     print(candidate, dict[candidate])
+
+
