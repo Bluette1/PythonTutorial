@@ -1,2 +1,7 @@
 language = "python3"
-run = ""
+
+run = "python apple_sharing.py"
+
+# Or you can navigate to the folder with the file you would like to execute, and then run it
+# For example:
+# run = "cd Dicts \n python AccessRights.py"
